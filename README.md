@@ -2,7 +2,7 @@
     <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Centered Image">
 </div>
 <h1 align="center">Hi 👋, I'm Aya SAOUDI</h1>
-<h3 align="center"> 3rd-year student in Computer Sciences at the High National School of Engineers of Tunis (ENSIT)</h3>
+<h3 align="center">SOFTWARE ENGINEER</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/saoudiaya?tab=repositories](https://github.com/saoudiaya?tab=repositories)
 
